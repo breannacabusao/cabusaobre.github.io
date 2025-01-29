@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Student."
-        desc: "I am a third-year undergraduate at UC Berkeley pursuing a double major in Data Science and Cognitive Science."
+        desc: "I am a third-year undergraduate at UC Berkeley pursuing a double major in Data Science and Cognitive Science. I am interested in the intersection of technology, mental health, and education, and I aspire to use data-driven insights to improve well-being and learning experiences."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Leader."
         desc: "I am a dedicated leader on campus serving as a teaching assistant as well as being a member on multiple boards and student government organizations where I work with various stakeholders to enhance student well-being, foster community, and drive meaningful change on campus."
