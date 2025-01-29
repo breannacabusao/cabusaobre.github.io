@@ -11,24 +11,24 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: 
+    text: Breanna Cabusao
+    button: Who Am I?
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Who Am I?"
+    text: 
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Student."
+        desc: "I am a third-year undergraduate at UC Berkeley pursuing a double major in Data Science and Cognitive Science."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Leader."
+        desc: "I am a dedicated leader on campus serving as a teaching assistant as well as being a member on multiple boards and student government organizations where I work with various stakeholders to enhance student well-being, foster community, and drive meaningful change on campus."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Researcher."
+        desc: "I am a researcher in two UC Berkeley labs, focusing on wellness and education. Passionate about improving student well-being and learning, I contribute to studies that explore mental health, generative AI, and equity in education."
         icon: fab fa-markdown
 
   portfolio:
