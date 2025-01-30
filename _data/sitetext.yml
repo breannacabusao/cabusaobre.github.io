@@ -69,12 +69,10 @@ en: &DEFAULT_EN
     # end: "Be Part <br> of Our <br> Story!"
 
   about:
-      title: "My Passions"
-      text: 
-      body: 
-      section: about
-
- 
+    title: "My Passions"
+    text: 
+    body: 
+    section: about
 
   # clients:
   #   section: clients
