@@ -70,8 +70,8 @@ en: &DEFAULT_EN
 
   about:
     title: "My Passions"
-    text: ""
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Doing What I Love..."
+    body: "I’m passionate about wellness and well-being, not just for myself but for others too. Whether it’s through mental health advocacy, mindfulness, or research, I want to find ways to help people live healthier, more balanced lives. I love being active and pushing myself, whether that’s running a half marathon, setting fitness goals, or just moving my body in ways that feel good. At the same time, I have a creative side—I love design, aesthetics, and bringing ideas to life in a meaningful way. I also love research and problem-solving, especially when it means making a real impact. I want to use data, insights, and innovation to improve the world, whether that’s through education, technology, or social change. At the end of the day, I’m driven by a desire to create, inspire, and uplift, always looking for ways to make a difference."
     section: about
     
   # clients:
