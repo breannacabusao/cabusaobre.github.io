@@ -17,7 +17,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "My Passions"
       section: about
-    - title: "My Extracurriculars"
+    - title: "Involvements"
       section: timeline
     - title: "Let's Connect"
       section: team
