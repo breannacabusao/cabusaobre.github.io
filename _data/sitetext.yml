@@ -94,7 +94,7 @@ en: &DEFAULT_EN
 
   team:
     title: "LET'S CONNECT"
-    text: "
+    text: ""
     subtext: 
     section: team
     people:
