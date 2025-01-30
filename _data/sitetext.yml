@@ -106,7 +106,7 @@ en: &DEFAULT_EN
       #       icon: fab fa-linkedin-in
       - name: Breanna Cabusao
         role: "breannacabusao@berkeley.edu"
-        image: assets/img/Breanna_professional_headshot (1) (1).JPG
+        image: assets/img/image.png
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
