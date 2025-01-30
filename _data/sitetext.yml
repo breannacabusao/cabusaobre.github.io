@@ -46,18 +46,17 @@ en: &DEFAULT_EN
     events:
       - title: "Center for Teaching & Learning"
         year: "Student Worker"
-        desc: "Supports the Teaching Excellence Colloquium and Presidential Chair Fellowship program through qualitative and quantitative data analysis and assists in general logistics for various research projects."
-        url: https://teaching.berkeley.edu/about/overview
+        desc: "Supports the Teaching Excellence Colloquium and Presidential Chair Fellowship program through qualitative and quantitative data analysis and assists in general logistics for various research projects. Website: https://teaching.berkeley.edu/about/overview"
         # image: assets/img/timeline/1.jpg
         alt:
       - title: "Golden Bear Sleep and Mood Research Clinic"
         year: "Research Assistant"
-        desc: "Qualitatively code interviews according to an established codebook for various research studies aiming to bring evidence-based sleep therapy to improve sleep and mental health throughout communities in California."
+        desc: "Qualitatively code interviews according to an established codebook for various research studies aiming to bring evidence-based sleep therapy to improve sleep and mental health throughout communities in California. Website: https://www.ocf.berkeley.edu/~ahsleep/gbsmrc_mock/research-assistants/"
         # image: assets/img/timeline/2.jpg
         alt:
       - title: "Sense & Sensibility & Science"
         year: "Teaching Assistant"
-        desc: "Assists as part of course staff in teaching 300 students a scientific critical thinking course co-taught by Professors Saul Perlmutter (Physics, Nobel Prize 2011), John Campbell (Philosophy), and Ellen Evers (Social Psychology, Haas School of Business)."
+        desc: "Assists as part of course staff in teaching 300 students a scientific critical thinking course co-taught by Professors Saul Perlmutter (Physics, Nobel Prize 2011), John Campbell (Philosophy), and Ellen Evers (Social Psychology, Haas School of Business). Course Website: https://sensibility.berkeley.edu/index.php?title=Main_Page"
         # image: assets/img/timeline/3.jpg
         # alt: image alt text
       - title: "Student Leadership"
