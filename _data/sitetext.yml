@@ -58,7 +58,7 @@ en: &DEFAULT_EN
         year: "Teaching Assistant"
         desc: "Assists as part of course staff in teaching 300 students a scientific critical thinking course co-taught by Professors Saul Perlmutter (Physics, Nobel Prize 2011), John Campbell (Philosophy), and Ellen Evers (Social Psychology, Haas School of Business)."
         # image: assets/img/timeline/3.jpg
-        alt: image alt text
+        # alt: image alt text
       - title: "Student Leadership"
         year: "Leader"
         desc: "I am an External Associate serving in the ASUC Mental Health Commision, a student advisor in the Vice Chancellor's Student Advisory Board, a student advisor in the RecWell Board of Governors, and part of the Execuitve Board of Cal Delta Sigma."
