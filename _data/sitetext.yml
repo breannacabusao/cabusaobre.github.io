@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Student."
         desc: "I am a third-year undergraduate at UC Berkeley pursuing a double major in Data Science and Cognitive Science. I am interested in the intersection of technology, mental health, and education, and I aspire to use data-driven insights to improve well-being and learning experiences."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        # icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Leader."
         desc: "I am a dedicated leader on campus serving as a teaching assistant as well as being a member on multiple boards and student government organizations where I work with various stakeholders to enhance student well-being, foster community, and drive meaningful change on campus."
-        icon: fas fa-laptop
+        # icon: fas fa-laptop
       - title: "Researcher."
         desc: "I am a researcher in two UC Berkeley labs, focusing on wellness and education. Passionate about improving student well-being and learning, I contribute to studies that explore mental health, generative AI, and equity in education."
-        icon: fab fa-markdown
+        # icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
@@ -45,24 +45,24 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Center for Teaching & Learning"
-        year: "Data Analyst Student Worker"
+        year: "Student Worker"
         desc: "Supports the Teaching Excellence Colloquium and Presidential Chair Fellowship program through qualitative and quantitative data analysis and assists in general logistics for various research projects."
-        image: assets/img/timeline/1.jpg
+        # image: assets/img/timeline/1.jpg
         alt:
       - title: "Golden Bear Sleep and Mood Research Clinic"
-        year: "Qualitative Data Research Assistant"
+        year: "Research Assistant"
         desc: "Qualitatively code interviews according to an established codebook for various research studies aiming to bring evidence-based sleep therapy to improve sleep and mental health throughout communities in California."
-        image: assets/img/timeline/2.jpg
+        # image: assets/img/timeline/2.jpg
         alt:
       - title: "Sense & Sensibility & Science"
-        year: "Undergraduate Teaching Assistant"
+        year: "Teaching Assistant"
         desc: "Assists as part of course staff in teaching 300 students a scientific critical thinking course co-taught by Professors Saul Perlmutter (Physics, Nobel Prize 2011), John Campbell (Philosophy), and Ellen Evers (Social Psychology, Haas School of Business)."
-        image: assets/img/timeline/3.jpg
+        # image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Student Leadership Organizations"
+      - title: "Student Leadership"
         year: "Leader"
         desc: "I am an External Associate serving in the ASUC Mental Health Commision, a student advisor in the Vice Chancellor's Student Advisory Board, a student advisor in the RecWell Board of Governors, and part of the Execuitve Board of Cal Delta Sigma."
-        image: assets/img/timeline/4.jpg
+        # image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
