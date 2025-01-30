@@ -47,6 +47,7 @@ en: &DEFAULT_EN
       - title: "Center for Teaching & Learning"
         year: "Student Worker"
         desc: "Supports the Teaching Excellence Colloquium and Presidential Chair Fellowship program through qualitative and quantitative data analysis and assists in general logistics for various research projects."
+        url: https://teaching.berkeley.edu/about/overview
         # image: assets/img/timeline/1.jpg
         alt:
       - title: "Golden Bear Sleep and Mood Research Clinic"
